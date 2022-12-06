@@ -1,0 +1,230 @@
+body{
+    background-color: aliceblue;
+}
+.container{
+    background-color: aliceblue;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+
+}
+
+.text{
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
+
+.center{
+    text-align: center;
+    align-items: center;
+}
+
+.top{
+    align-items: flex-start;
+}
+
+.tm{
+    height: 50px;
+}
+
+.btn{
+    height: 60px;
+    width: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+    /* margin-bottom: -10px; */
+    /* border: 1px solid green; */
+    
+}
+
+.padding-btn{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+
+.btn-design{
+    background-color: aliceblue;
+    border: 1px solid aliceblue;
+    cursor: pointer;
+    height: 60px;
+    transition: 1s ease;
+    color: red;
+
+}
+
+.btn-design:hover{
+    background-color: red;
+    border: 1px solid red;
+    color: aliceblue;
+}
+.border{
+    border-bottom: 3px solid red;
+}
+
+.padding2{
+    margin-left: -8px;
+}
+
+.dive{
+    height: 300px;
+    width: 1340px;
+    background-color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.textk{
+    color: red;
+}
+
+.img{
+    height: 100px;
+    transition: 0.09s;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.img:hover{
+    border-radius: 20px;
+    border: 6px solid white;
+    outline: 4px solid red;
+}
+
+.img2{
+    height: 100px;
+    transition: 0.09s;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.img2:hover{
+    border-radius: 20px;
+    border: 6px solid white;
+    outline: 4px solid #ff8321;
+}
+
+.img3{
+    height: 100px;
+    transition: 0.09s;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.img3:hover{
+    border-radius: 20px;
+    border: 6px solid white;
+    outline: 4px solid black;
+}
+
+.img4{
+    height: 100px;
+    transition: 0.09s;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.img4:hover{
+    border-radius: 20px;
+    border: 6px solid white;
+    outline: 4px solid purple;
+}
+
+.container2{
+    background-color: aliceblue;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+}
+
+.family{
+    font-family: 'Junegull', 'Typo Round';
+    font-size: 25px;
+}
+
+.family2{
+    font-family: 'Typo Round Bold Italic';
+    font-style: italic;
+    font-size: larger;
+}
+
+.formulario{
+    background-color: #ff8321;
+    width: 60px;
+    height: 30px;
+}
+
+.backform{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border: 2px solid black;
+    
+    width: 9cm;
+    height: 10cm;
+        
+
+}
+
+.btn2{
+    height: 1px;
+    width: 100px;
+    /* margin-bottom: -10px; */
+    /* border: 1px solid green; */
+    
+}
+
+.btn-design2{
+    background-color: red;
+    border: 1px solid red;
+    cursor: pointer;
+    height: 60px;
+    transition: 1s ease;
+    color: aliceblue;
+
+}
+
+.btn-design2:hover{
+    background-color: aliceblue;
+    border: 1px solid aliceblue;
+    color: red;
+}
+
+.center2{
+    align-items: center;
+}
+
+/* TESTE A PARTIR DAQUI */
+
+input {
+  display:block;
+  margin: 0 auto;
+
+}
+
+.inputt{
+    width: 6cm;
+    height: 1cm;
+}
